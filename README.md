@@ -49,7 +49,13 @@ https://github.com/DaniilVdovin/Material-Pointer-Cpp/blob/e5cfa15c414922db5fef19
 9. Given a dynamic array, the size of which is entered from the keyboard. Fill the array with random numbers. Remove K elements from it, starting from the middle of the array.
 10. Write a program that creates a dynamic array and remove an element from the number N from it, add K elements, starting from the number N. N is entered from the keyboard
 11. Given an array of integers, consisting of N elements. Fill it out from the keyboard. Create an array consisting of elements whose values are greater than the value of the previous element (starting from the second).
+https://github.com/DaniilVdovin/Material-Pointer-Cpp/blob/626accbeb960ce58c418cc0b9c402caada1f2ba8/Source/Dynamic%20arrays/11.cpp#L1-L22
 12. Given an array consisting of N elements and an array consisting of M elements. Fill them out from the keyboard. Find the minimum in the array N, and the maximum in the array M. Form an array consisting of N array elements preceding the minimum element and M array elements following the maximum.
+https://github.com/DaniilVdovin/Material-Pointer-Cpp/blob/626accbeb960ce58c418cc0b9c402caada1f2ba8/Source/Dynamic%20arrays/12.cpp#L1-L41
 13. Change the dynamic array of integers so that its positive elements become negative and vice versa.
+https://github.com/DaniilVdovin/Material-Pointer-Cpp/blob/626accbeb960ce58c418cc0b9c402caada1f2ba8/Source/Dynamic%20arrays/13.cpp#L1-L17
 14. Given an array consisting of N elements and an array consisting of M elements. Fill them in with random numbers. Create an array consisting of the positive elements of the N array and the negative elements of the M array.
+https://github.com/DaniilVdovin/Material-Pointer-Cpp/blob/626accbeb960ce58c418cc0b9c402caada1f2ba8/Source/Dynamic%20arrays/14.cpp#L1-L29
+And Random Variant. Unfortunately it cannot be tested.
+https://github.com/DaniilVdovin/Material-Pointer-Cpp/blob/626accbeb960ce58c418cc0b9c402caada1f2ba8/Source/Dynamic%20arrays/14_random.cpp#L1-L24
 15. Given an array consisting of N elements and an array consisting of M elements. Fill them in with random numbers. Create an array consisting of prime numbers of arrays N and M. The numbers in the new array cannot be repeated.
