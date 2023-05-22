@@ -23,7 +23,7 @@ https://github.com/DaniilVdovin/Material-Pointer-Cpp/blob/e5cfa15c414922db5fef19
 9. :white_check_mark: Write a function that takes two numbers as arguments and returns a reduced fraction (25 15, 5/3). Write a program to demonstrate how this function works.
 https://github.com/DaniilVdovin/Material-Pointer-Cpp/blob/e5cfa15c414922db5fef19389cffbb7691890eca/Source/Pointers/9.cpp#L1-L22
 10. :white_check_mark: Write a function that takes three sides of a triangle as arguments and returns the perimeter of the triangle and the area calculated using the Heron formula. Write a program to demonstrate how this function works.
-https://github.com/AnnaChekanova/Material-Pointer-Cpp/blob/e3f101dab201b4dd84f157f35bd79578ee24133c/Source/Pointers/10.cpp#L1C1-L16
+https://github.com/DaniilVdovin/Material-Pointer-Cpp/blob/041c44a93048d503b16a84e2cc6b07e6cbc6f11c/Source/Pointers/10.cpp#L1-L16
 11. ❌ Write a function that takes the value of the acute angle of a right-angled triangle and the length of the hypotenuse as arguments, and returns the length of the legs, the area of the triangle and the radius of the circumscribed circle. Write a program to demonstrate how this function works.
 12. ❌ Write a function that takes the base of an isosceles trapezoid as arguments and returns the perimeter, area and height of the trapezoid. Write a program to demonstrate how this function works.
 13. ❌ Write a function that takes age (number of years) as an argument and returns the number of months, days, hours and minutes lived.
