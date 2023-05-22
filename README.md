@@ -37,7 +37,7 @@ https://github.com/DaniilVdovin/Material-Pointer-Cpp/blob/e5cfa15c414922db5fef19
 https://github.com/DaniilVdovin/Material-Pointer-Cpp/blob/e5cfa15c414922db5fef19389cffbb7691890eca/Source/Dynamic%20arrays/2.cpp#L1-L27
 3. :white_check_mark: Given a number N. Form a dynamic array consisting of the first N Fibonacci numbers (recall that they are given by the recurrent formula Fn = Fn-1 + Fn-2, F1 = F2 = 1).
 https://github.com/DaniilVdovin/Material-Pointer-Cpp/blob/e5cfa15c414922db5fef19389cffbb7691890eca/Source/Dynamic%20arrays/3.cpp#L1-L19
-4. :white_check_mark: Given an array of integers, consisting of N elements. Fill it out from the keyboard. Count the number of odd elements before the minimum, if there are several of them, form a new array of them.
+4. ❌ Given an array of integers, consisting of N elements. Fill it out from the keyboard. Count the number of odd elements before the minimum, if there are several of them, form a new array of them.
 5. :white_check_mark: Given an array consisting of N elements and an array consisting of M elements. Fill them out from the keyboard. Create an array consisting of the positive elements of the input arrays.
 https://github.com/DaniilVdovin/Material-Pointer-Cpp/blob/e5cfa15c414922db5fef19389cffbb7691890eca/Source/Dynamic%20arrays/5.cpp#L1-L29
 6. :white_check_mark: Given an array consisting of N elements and an array consisting of M elements. Fill them out from the keyboard. Create an array consisting of even elements of the input arrays.
