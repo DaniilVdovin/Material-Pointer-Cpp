@@ -5,6 +5,7 @@ Methodical material. Parsing the topic of c++ pointers. Writing assignments and 
 ## Pointers
 
 1. Write a function that takes the side of a square as arguments and returns its perimeter, area, and diagonal. Write a program to demonstrate how this function works.
+https://github.com/DaniilVdovin/Material-Pointer-Cpp/blob/60f02bee834171f5be0673cab6b4fdbeb0f89613/Source/Pointers/1.cpp#L1-L16
 2. Write a function that takes three sides of a triangle as arguments and returns its perimeter and area. Write a program to demonstrate how this function works.
 3. Write a function that takes the radius of the circle as arguments and returns its area and the length of the arc. Write a program to demonstrate how this function works.
 4. Write a function that takes the legs of a right triangle as arguments and returns its angles. Write a program to demonstrate how this function works.
